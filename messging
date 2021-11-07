@@ -1,14 +1,17 @@
+<!DOCTYPE html>
 <html>
 <head>
-<title>msg alert program<title>
 <script>
-function myFunction()
-{
+function myFunction() {
   alert("Hello! I am an alert box!");
 }
 </script>
+</head>
 <body>
+
+
 <button onclick="myFunction()">CLICK ME</button>
+
 
 
 </body>
